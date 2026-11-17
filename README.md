@@ -1,7 +1,7 @@
 # Project 22: Email-Triggered Autonomous Data Analysis Agent
 
 **Category:** AI Automation
-**Part of:** AutoMatrixLab — 100+ AI and automation apps
+**Part of:** AutoMatrixLab
 
 ## Overview
 
@@ -13,9 +13,11 @@ OpenAI, Email APIs, PDF Generation, Python
 
 ## Demo
 
-🌐 **See it on the site:** https://automatrixlab.com/#applications
+[![Email-Triggered Autonomous Data Analysis Agent](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-22-email-triggered-autonomous-data-analysis-agent.jpg)](https://automatrixlab.com/projects/project-22-email-triggered-autonomous-data-analysis-agent/)
 
-(Demo video coming soon.)
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/22-rebuilt-narrated-20261111.mp4
+
+🌐 **See it on the site:** https://automatrixlab.com/projects/project-22-email-triggered-autonomous-data-analysis-agent/
 
 ## Access Full Source Code & Live Demo
 
@@ -25,7 +27,7 @@ This repository shows the project overview, tech stack, and demo link. For full 
 
 ## About AutoMatrixLab
 
-AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
+AutoMatrixLab is a research, education, and industry platform of AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open.
 
 🌐 Website: https://automatrixlab.com
 📧 Contact: adnan.balloch@outlook.com
